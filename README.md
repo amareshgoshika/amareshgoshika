@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amaresh Goshika</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://amaresh-goshika.netlify.app/](https://amaresh-goshika.netlify.app/)
-
-- 📫 How to reach me **amargoshika@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/amareshgoshika/Documents/blob/main/amareshgoshika_resume.docx](https://github.com/amareshgoshika/Documents/blob/main/amareshgoshika_resume.docx)
+- 📫 How to reach me **amareshgoshikatech@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
